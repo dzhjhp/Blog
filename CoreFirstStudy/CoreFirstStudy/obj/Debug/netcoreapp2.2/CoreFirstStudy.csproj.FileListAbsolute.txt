@@ -1,0 +1,3 @@
+D:\ECode\CoreStudy\CoreFirstStudy\CoreFirstStudy\obj\Debug\netcoreapp2.2\CoreFirstStudy.csproj.CoreCompileInputs.cache
+D:\ECode\CoreStudy\CoreFirstStudy\CoreFirstStudy\obj\Debug\netcoreapp2.2\CoreFirstStudy.AssemblyInfoInputs.cache
+D:\ECode\CoreStudy\CoreFirstStudy\CoreFirstStudy\obj\Debug\netcoreapp2.2\CoreFirstStudy.AssemblyInfo.cs
